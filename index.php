@@ -132,7 +132,7 @@
 
 
 
-<section class="py-5 text-center container" style="background-image:url('./images/portada.png'); background-repeat: no-repeat;
+<section class="py-5 text-center container" style="background-image:url('./images/portada.png');background-size:100%; background-repeat: no-repeat;
     background-position: center; 
     position: relative; " >
      <div class="row py-lg-5" >
